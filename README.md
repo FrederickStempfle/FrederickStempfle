@@ -14,8 +14,7 @@
 
 <p align="center">
   I like building tools that solve real problems (or just scratch an itch)<br>
-  Currently tinkering with <b>Rust</b>, <b>Swift</b>, and <b>Python</b><br>
-  Interests range from systems programming to macOS utilities to Discord bots
+  Currently tinkering with <b>Rust</b>, <b>Swift</b>, and <b>Python</b>
 </p>
 
 <br>
