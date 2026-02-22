@@ -21,17 +21,28 @@
 
 <h3 align="center">Featured Projects</h3>
 
-<p align="center">
-  <a href="https://github.com/FrederickStempfle/wireguard-tray">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrederickStempfle&repo=wireguard-tray&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="wireguard-tray" />
-  </a>
-  <a href="https://github.com/FrederickStempfle/status-tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrederickStempfle&repo=status-tracker&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="status-tracker" />
-  </a>
-  <a href="https://github.com/FrederickStempfle/PenDocs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrederickStempfle&repo=PenDocs&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="PenDocs" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="300">
+      <a href="https://github.com/FrederickStempfle/wireguard-tray">
+        <img src="https://img.shields.io/badge/wireguard--tray-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="wireguard-tray" />
+      </a>
+      <br><sub>A simple macOS menu bar app for managing WireGuard connections</sub>
+    </td>
+    <td align="center" width="300">
+      <a href="https://github.com/FrederickStempfle/status-tracker">
+        <img src="https://img.shields.io/badge/status--tracker-000000?style=for-the-badge&logo=rust&logoColor=white" alt="status-tracker" />
+      </a>
+      <br><sub>A very lightweight status tracker for TUI apps</sub>
+    </td>
+    <td align="center" width="300">
+      <a href="https://github.com/FrederickStempfle/PenDocs">
+        <img src="https://img.shields.io/badge/PenDocs-1B1F24?style=for-the-badge&logo=mdx&logoColor=white" alt="PenDocs" />
+      </a>
+      <br><sub>Documentation site</sub>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -39,8 +50,10 @@
 
 <p align="center">
   <a href="https://github.com/dolfies/discord.py-self">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dolfies&repo=discord.py-self&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&show_owner=true" alt="discord.py-self" />
+    <img src="https://img.shields.io/badge/dolfies%2Fdiscord.py--self-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="discord.py-self" />
   </a>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/dolfies/discord.py-self?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github" alt="Stars" />
 </p>
 
 <br>
@@ -49,14 +62,4 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=FrederickStempfle&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FrederickStempfle&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" alt="Contribution Graph" width="95%" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=FrederickStempfle&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="Trophies" />
-  </a>
 </p>
