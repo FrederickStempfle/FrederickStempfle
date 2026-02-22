@@ -41,6 +41,14 @@
 
 ---
 
+### Contributed To
+
+| Repo | Stars |
+|------|-------|
+| [**dolfies/discord.py-self**](https://github.com/dolfies/discord.py-self) | :star: 1,075 |
+
+---
+
 ### GitHub Stats
 
 <p align="center">
