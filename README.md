@@ -49,6 +49,14 @@
 <h3 align="center">Contributed To</h3>
 
 <p align="center">
+  <a href="https://github.com/gptme/gptme">
+    <img src="https://img.shields.io/badge/gptme%2Fgptme-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="gptme" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/gptme/gptme?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github" alt="Stars" />
+</p>
+
+<p align="center">
   <a href="https://github.com/dolfies/discord.py-self">
     <img src="https://img.shields.io/badge/dolfies%2Fdiscord.py--self-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="discord.py-self" />
   </a>
