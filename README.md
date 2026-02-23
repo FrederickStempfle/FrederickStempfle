@@ -61,7 +61,7 @@
     <img src="https://img.shields.io/badge/dolfies%2Fdiscord.py--self-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="discord.py-self" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/github/stars/dolfies/discord.py-self?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/badge/stars-1.1k-58a6ff?style=for-the-badge&labelColor=0d1117&logo=github" alt="Stars" />
 </p>
 
 <br>
