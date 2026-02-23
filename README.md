@@ -53,7 +53,7 @@
     <img src="https://img.shields.io/badge/gptme%2Fgptme-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="gptme" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/github/stars/gptme/gptme?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/badge/stars-4.2k-58a6ff?style=for-the-badge&labelColor=0d1117&logo=github" alt="Stars" />
 </p>
 
 <p align="center">
