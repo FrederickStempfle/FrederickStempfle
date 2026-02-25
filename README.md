@@ -49,6 +49,14 @@
 <h3 align="center">Contributed To</h3>
 
 <p align="center">
+  <a href="https://github.com/biomejs/biome">
+    <img src="https://img.shields.io/badge/biomejs%2Fbiome-60A5FA?style=for-the-badge&logo=biome&logoColor=white" alt="biome" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/stars-23.8k-58a6ff?style=for-the-badge&labelColor=0d1117&logo=github" alt="Stars" />
+</p>
+
+<p align="center">
   <a href="https://github.com/gptme/gptme">
     <img src="https://img.shields.io/badge/gptme%2Fgptme-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="gptme" />
   </a>
