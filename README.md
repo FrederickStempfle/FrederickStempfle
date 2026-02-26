@@ -14,7 +14,7 @@
 
 <p align="center">
   I like building tools that solve real problems (or just scratch an itch)<br>
-  Currently tinkering with <b>Rust</b>, <b>Swift</b>, and <b>Python</b>
+  Currently tinkering with <b>Rust</b>, <b>Swift</b>, <b>TS (Nextjs)</b> and <b>Python</b>
 </p>
 
 <br>
