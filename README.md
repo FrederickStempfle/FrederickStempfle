@@ -65,6 +65,14 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/lifo-sh/lifo">
+    <img src="https://img.shields.io/badge/lifo--sh%2Flifo-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="lifo" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/stars-329-58a6ff?style=for-the-badge&labelColor=0d1117&logo=github" alt="Stars" />
+</p>
+
+<p align="center">
   <a href="https://github.com/dolfies/discord.py-self">
     <img src="https://img.shields.io/badge/dolfies%2Fdiscord.py--self-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="discord.py-self" />
   </a>
