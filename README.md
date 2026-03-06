@@ -2,6 +2,8 @@
 
 <p align="center">
   <em>Hobbyist who builds things for fun</em>
+</p>
+<p align="center">
   <em>Currently working on Rift</em>
 </p>
 
