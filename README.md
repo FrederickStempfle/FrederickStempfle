@@ -68,6 +68,14 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/steipete/wacli">
+    <img src="https://img.shields.io/badge/steipete%2Fwacli-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="wacli" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/stars-2k-58a6ff?style=for-the-badge&labelColor=0d1117&logo=github" alt="Stars" />
+</p>
+
+<p align="center">
   <a href="https://github.com/lifo-sh/lifo">
     <img src="https://img.shields.io/badge/lifo--sh%2Flifo-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="lifo" />
   </a>
