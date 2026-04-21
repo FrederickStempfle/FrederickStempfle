@@ -56,7 +56,7 @@
     <img src="https://img.shields.io/badge/biomejs%2Fbiome-60A5FA?style=for-the-badge&logo=biome&logoColor=white" alt="biome" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/stars-23.8k-58a6ff?style=for-the-badge&labelColor=0d1117&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/badge/stars-24.4k-58a6ff?style=for-the-badge&labelColor=0d1117&logo=github" alt="Stars" />
 </p>
 
 <p align="center">
@@ -64,7 +64,7 @@
     <img src="https://img.shields.io/badge/gptme%2Fgptme-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="gptme" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/stars-4.2k-58a6ff?style=for-the-badge&labelColor=0d1117&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/badge/stars-4.3k-58a6ff?style=for-the-badge&labelColor=0d1117&logo=github" alt="Stars" />
 </p>
 
 <p align="center">
@@ -80,7 +80,7 @@
     <img src="https://img.shields.io/badge/lifo--sh%2Flifo-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="lifo" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/stars-329-58a6ff?style=for-the-badge&labelColor=0d1117&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/badge/stars-485-58a6ff?style=for-the-badge&labelColor=0d1117&logo=github" alt="Stars" />
 </p>
 
 <p align="center">
