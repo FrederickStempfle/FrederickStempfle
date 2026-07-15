@@ -4,7 +4,7 @@
   <em>Hobbyist who builds things for fun</em>
 </p>
 <p align="center">
-  <em>Currently working on Rift</em>
+  <em>Currently working on <a href="https://github.com/FrederickStempfle/Mural">Mural</a></em>
 </p>
 
 <p align="center">
@@ -26,6 +26,12 @@
 
 <table align="center">
   <tr>
+    <td align="center" width="300">
+      <a href="https://github.com/FrederickStempfle/Mural">
+        <img src="https://img.shields.io/badge/Mural-F2A4C0?style=for-the-badge&logo=swift&logoColor=white" alt="Mural" />
+      </a>
+      <br><sub>A free, native macOS wallpaper app — still art, moving scenes, and a little studio</sub>
+    </td>
     <td align="center" width="300">
       <a href="https://github.com/FrederickStempfle/wireguard-tray">
         <img src="https://img.shields.io/badge/wireguard--tray-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="wireguard-tray" />
